@@ -1,7 +1,7 @@
 {
   "name": "hfnv",
   "version": "1.0.2",
-  "description": "FNV-1a 128 bits hashing utility",
+  "description": "FNV-1a 128 hashing",
   "keywords": [
     "hash",
     "hashing",
